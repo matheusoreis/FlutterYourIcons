@@ -15,7 +15,9 @@ NavalhaIcon(
 Para criar um novo ícone, siga os seguintes passos:
 
 1° - Acesse a pasta "assets/icons".
+
 2° - Coloque o arquivo SVG do ícone na pasta e certifique-se de nomeá-lo de acordo com sua finalidade.
+
 3° - Abra o arquivo "icons_list.dart" e crie uma nova linha com o nome do ícone e o nome do arquivo SVG.
 
 ```

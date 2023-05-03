@@ -3,6 +3,7 @@ YourIcons é um pacote Flutter que permite que você use seus próprios ícones 
 
 Dependências:
 [Flutter SVG](https://pub.dev/packages/flutter_svg)
+
 [Flutter Path](https://pub.dev/packages/path)
 
 Exemplo:

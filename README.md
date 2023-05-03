@@ -5,7 +5,9 @@ YourIcons é um pacote Flutter que permite que você use seus próprios ícones 
 Exemplo:
 
 ```
-function test() {
-  console.log("notice the blank line before this function?");
-}
+NavalhaIcon(
+  NavalhaIcons.apps,
+  size: 28,
+  color: Colors.white,
+),
 ```
